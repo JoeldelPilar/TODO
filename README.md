@@ -10,12 +10,12 @@ This was about one days work in total, included the lesson with our teacher.
 - no styling (not in scope of the task)
 
 ## Backend
--Express
--Cors
--ENV
--SQL querys
+- Express
+- Cors
+- ENV
+- SQL querys
 
 ## DB
--MySQL
--MAMP
--PHPmyAdmin GUI
+- MySQL
+- MAMP
+- PHPmyAdmin GUI
